@@ -16,6 +16,7 @@ You can find usage example in the [/examples](/examples) folder.
 
 * Linux (x86_64)
 * MacOS (arm64)
+* Windows (x86_64)
 * should be more in future
 
 ## How to install
