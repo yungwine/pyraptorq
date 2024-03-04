@@ -14,7 +14,7 @@ You can find usage example in the [/examples](/examples) folder.
 
 ## Supported platforms
 
-* Linux (x86_64)
+* Linux (x86_64, arm64)
 * MacOS (arm64)
 * Windows (x86_64)
 * should be more in future
