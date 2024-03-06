@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyraptorq",
-    version="0.1.6",
+    version="0.1.7",
     author="Maksim Kurbatov",
     author_email="cyrbatoff@gmail.com",
     description="RaptorQ RFC6330 C++ bindings for python",
